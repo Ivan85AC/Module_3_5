@@ -9,4 +9,4 @@ def get_multiplied_digits(number):
 
 
 num = input('Введите число: ')
-print(get_multiplied_digits(40203))
+print(get_multiplied_digits(num))
